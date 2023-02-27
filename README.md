@@ -74,14 +74,14 @@ Here you can see output results of trained model
 ![cm](images/confusion_matrix.png)
 
 **F1 Curve:**
-![cm](images/f1_curve.png)
+![cm](images/F1_curve.png)
 
 **P Curve:**
-![cm](images/p_curve.png)
+![cm](images/P_curve.png)
 
 **PR Curve:**
-![cm](images/pr_curve.png)
+![cm](images/PR_curve.png)
 
 **R Curve:**
-![cm](images/r_curve.png)
+![cm](images/R_curve.png)
 
