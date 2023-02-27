@@ -1,0 +1,4 @@
+names:
+- '0'
+train: /content/Car-Dataset/Yolo/train
+val: /content/Car-Dataset/Yolo/val
