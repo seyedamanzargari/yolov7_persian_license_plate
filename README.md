@@ -58,7 +58,7 @@ After all, data seprate to train and validation to train with yolov7.
 you can easily do all that works by run the following command: `python dataset.py`
 
 ## Training YOLOv7
-For training yolov7 (Just Last layer (transfer learning)) run the following command : `python train_tf.py --device 0 --batch-size 32 --data data.yaml --img 640 640 --cfg cfg/training/yolov7.yaml --weights 'yolov7_training.pt' --hyp data/hyp.scratch.custom.yaml`
+For training yolov7 (Just Last layer (transfer learning)) run the following command : `python train_tf.py --device 0 --batch-size 32 --data data.yaml --img 640 640 --cfg yolov7/cfg/training/yolov7.yaml --weights 'yolov7_training.pt' --hyp yolov7/data/hyp.scratch.custom.yaml`
 
 
 ### Output Result
